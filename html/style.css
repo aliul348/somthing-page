@@ -1,0 +1,67 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.container{
+    width: 85%;
+    margin: auto;
+    }
+.header{
+width: 100%;
+float: left;
+background: darkgreen;
+}
+.logo-part{
+background-color: aqua;
+width: 33.33%;
+float: left;
+}
+.menu-part{
+background-color: blueviolet;
+width: 33.33%;
+float: left;
+}
+.search-part{
+background-color: brown;
+width: 33.33%;
+float: left;
+}
+/* about */
+.hero{
+    width: 100%;
+background-color: chartreuse;
+color: crimson;
+float: left;
+}
+.writing-part{
+width: 50%;
+float: left;
+}
+.img-part{
+width: 50%;
+float: left;
+}
+/* about part */
+.about{
+width: 100%;
+float: left;
+}
+.part-one{
+background: aqua;
+height: 200px;
+width: 20%;
+float: left;
+}
+.part-two{
+background: blueviolet;
+height: 200px;
+width: 60%;
+float: left;
+}
+.part-three{
+background: darkorange;
+height: 200px;
+width: 20%;
+float: left;
+}
